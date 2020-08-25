@@ -1,0 +1,31 @@
+.country{
+   height: 350px;
+   background-color: rgb(85, 73, 73); 
+   width:80%;
+   margin: 20px;
+   border-radius: 10px;
+   
+
+}
+.flag {
+    width:500px;
+    float: left;
+  margin-right: 50px;
+}
+.flag img{
+height: 200px;
+
+margin-left: 15px;
+border-radius: 10px;
+
+}
+
+.flag h3{
+font-weight: 500;
+font-size: 30px;
+margin: 0;
+margin: 30px 15px 15px 15px;
+}
+.details{
+float: left;
+}
